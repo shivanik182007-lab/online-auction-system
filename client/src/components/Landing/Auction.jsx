@@ -5,7 +5,7 @@ const auctions = [
   {
     img: "https://res.cloudinary.com/dhv8qx1qy/image/upload/v1750644725/miekytfqgwnlj4jqai5k.png",
     title: "Vintage Film Camera - Excellent Condition",
-    price: "$245.00",
+    price: "₹245.00",
     bids: 12,
     time: "2h 15m",
     color: "bg-rose-500",
@@ -13,7 +13,7 @@ const auctions = [
   {
     img: "https://res.cloudinary.com/dhv8qx1qy/image/upload/v1750644637/lk7l3ar3sptniptieyo3.png",
     title: "Luxury Swiss Watch - Gold Plated",
-    price: "$1,250.00",
+    price: "₹1,250.00",
     bids: 28,
     time: "5h 42m",
     color: "bg-amber-500",
@@ -21,7 +21,7 @@ const auctions = [
   {
     img: "https://res.cloudinary.com/dhv8qx1qy/image/upload/v1750644675/tatznfsoekfp3vsoeswd.png",
     title: "Original Oil Painting - Abstract Art",
-    price: "$890.00",
+    price: "₹890.00",
     bids: 7,
     time: "1d 3h",
     color: "bg-emerald-500",
